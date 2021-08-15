@@ -9,7 +9,7 @@
 # Supervised Learning Projects
 
 ## [Flight Delay Prediction](https://github.com/sheilaamalia/Machine-Learning-Projects/blob/master/1.%20Flight%20Delay%20Prediction/Final_Flight%20Delay%20Prediction.ipynb)
-<img align="left" src="ross-parmly-rf6ywHVkrlY-unsplash.jpg" width="300" height="250">
+<img src="ross-parmly-rf6ywHVkrlY-unsplash.jpg" width="300" height="250">
 
 This project performing supervised learning with Logistic Regression to predict delay indicator for American Airlines flights.
 * **Python libraries used:** Scikit learn, Seaborn, Pandas, Matplotlib
