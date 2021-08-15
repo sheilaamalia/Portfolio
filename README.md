@@ -1,5 +1,5 @@
 # Sheila Amalia Burhanudin
-*An Aspiring Data Scientist
+*An Aspiring Data Scientist*
 
 # Education
 * Data Engineer Bootcamp, *Shift Academy*, June 2021-present
@@ -12,8 +12,8 @@
 
 Photo by <a href="https://unsplash.com/@rparmly?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ross Parmly</a> on <a href="https://unsplash.com/s/photos/flight?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-This project performing supervised learning to predict delay for American Airlines.
+This project performing supervised learning with Logistic Regression to predict delay indicator for American Airlines flights.
 * **Python libraries used:** Scikit learn, Seaborn, Pandas, Matplotlib
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+* **Input:** American Airlines Flight Data in January 2019 
+* **Output:** Delay Indicator
 
